@@ -1,6 +1,6 @@
-export const collectedTasks = [
-
-    { key: 'INBOX', name: 'inbox' },
+export const collatedTasks = [
+    { key: 'INBOX', name: 'Inbox' },
     { key: 'TODAY', name: 'Today' },
-    { key: 'Next 7', name: 'Next 7 Days' },
-];
+    { key: 'NEXT_7', name: 'Next 7 Days' },
+  ];
+  
